@@ -8,7 +8,7 @@ import org.redisson.codec.TypedJsonJacksonCodec;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Mono;
 
-@Service
+//@Service
 public class ProductCacheTemplate extends CacheTemplate<Long, Product> {
     private final ProductRepository productRepository;
     private final RMapReactive<Long, Product> map;
