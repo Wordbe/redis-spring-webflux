@@ -1,0 +1,30 @@
+2022-05-30 00:10:46,988 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2022-05-30 00:10:47,011 INFO o.a.j.JMeter: Loading user properties from: /Users/kakao/jforest/apache-jmeter-5.4.3/bin/user.properties
+2022-05-30 00:10:47,012 INFO o.a.j.JMeter: Loading system properties from: /Users/kakao/jforest/apache-jmeter-5.4.3/bin/system.properties
+2022-05-30 00:10:47,018 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2022-05-30 00:10:47,018 INFO o.a.j.JMeter: Version 5.4.3
+2022-05-30 00:10:47,018 INFO o.a.j.JMeter: java.version=11.0.14.1
+2022-05-30 00:10:47,018 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2022-05-30 00:10:47,018 INFO o.a.j.JMeter: os.name=Mac OS X
+2022-05-30 00:10:47,018 INFO o.a.j.JMeter: os.arch=x86_64
+2022-05-30 00:10:47,018 INFO o.a.j.JMeter: os.version=11.6
+2022-05-30 00:10:47,018 INFO o.a.j.JMeter: file.encoding=UTF-8
+2022-05-30 00:10:47,018 INFO o.a.j.JMeter: java.awt.headless=null
+2022-05-30 00:10:47,018 INFO o.a.j.JMeter: Max memory     =1073741824
+2022-05-30 00:10:47,018 INFO o.a.j.JMeter: Available Processors =16
+2022-05-30 00:10:47,025 INFO o.a.j.JMeter: Default Locale=English (EN)
+2022-05-30 00:10:47,025 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2022-05-30 00:10:47,025 INFO o.a.j.JMeter: JMeterHome=/Users/kakao/jforest/apache-jmeter-5.4.3
+2022-05-30 00:10:47,025 INFO o.a.j.JMeter: user.dir  =/Users/kakao/jforest/redis-spring-webflux/redis-performance
+2022-05-30 00:10:47,025 INFO o.a.j.JMeter: PWD       =/Users/kakao/jforest/redis-spring-webflux/redis-performance
+2022-05-30 00:10:47,026 INFO o.a.j.JMeter: IP: 218.38.137.27 Name: jacob-mac.local FullName: 218.38.137.27
+2022-05-30 00:10:47,328 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2022-05-30 00:10:48,280 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-05-30 00:11:13,285 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-05-30 00:11:13,299 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-05-30 00:11:13,300 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-05-30 00:11:13,305 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2022-05-30 00:11:13,305 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2022-05-30 00:11:13,305 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2022-05-30 00:11:13,305 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2022-05-30 00:11:13,306 INFO o.a.j.s.SampleEvent: List of sample_variables: []

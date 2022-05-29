@@ -20,3 +20,9 @@ services:
       - ./pgadmin:/var/lib/pgadmin
     ports:
       - 9000:9000
+
+  redis:
+    container_name: product-redis
+    image: redis:alpine
+    ports:
+      - 6379:6379
