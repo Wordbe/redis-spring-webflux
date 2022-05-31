@@ -12,9 +12,11 @@ import reactor.core.publisher.Mono;
 public class ProductServiceV2 {
 
     private final CacheTemplate<Long, Product> cacheTemplate;
+    private final ProductVisitService productVisitService;
 
     public Mono<Product> getProduct(Long id) {
-        return cacheTemplate.get(id);
+        return cacheTemplate.get(id)
+                .doFirst(() -> productVisitService.addVisit(id));
     }
 
     public Mono<Product> updateProduct(Long id, Mono<Product> productMono) {
